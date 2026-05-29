@@ -1,5 +1,5 @@
 # SQL-Based-Sales-Analytics-Reporting-System-
-Built an end-to-end SQL analytics solution to analyze 18K+ sales records and generate actionable insights for customer, product, and revenue performance reporting.
+Built an end-to-end SQL analytics solution to analyze 18000+ sales records and generate actionable insights for customer, product, and revenue performance reporting.
 
 A Business Intelligence and Data Analytics project built using SQL Server to transform raw sales data into actionable business insights. The system leverages Data Warehousing concepts, advanced SQL queries, and reporting views to analyze sales performance, customer behavior, and product profitability.
 
