@@ -15,8 +15,11 @@ Reusable SQL Reporting Views for Business Intelligence
 
 ## Technologies Used
 Microsoft SQL Server
+
 T-SQL
+
 SQL Server Management Studio (SSMS)
+
 CSV Data Sources
 
 ## SQL Concepts Demonstrated
