@@ -4,14 +4,14 @@ Built an end-to-end SQL analytics solution to analyze 18K+ sales records and gen
 A Business Intelligence and Data Analytics project built using SQL Server to transform raw sales data into actionable business insights. The system leverages Data Warehousing concepts, advanced SQL queries, and reporting views to analyze sales performance, customer behavior, and product profitability.
 
 ## Key Features
-Designed using a Star Schema (Fact & Dimension Tables)  
-Sales Trend Analysis (Monthly & Yearly)  
-Customer Segmentation (VIP, Regular, New Customers)  
-Product Performance & Revenue Analysis  
-Category-wise Sales Contribution Analysis  
-Customer and Product KPI Reporting  
-Running Totals, Moving Averages, and Growth Analysis using Window Functions  
-Reusable SQL Reporting Views for Business Intelligence  
+-> Designed using a Star Schema (Fact & Dimension Tables)  
+-> Sales Trend Analysis (Monthly & Yearly)  
+-> Customer Segmentation (VIP, Regular, New Customers)  
+-> Product Performance & Revenue Analysis  
+-> Category-wise Sales Contribution Analysis  
+-> Customer and Product KPI Reporting  
+-> Running Totals, Moving Averages, and Growth Analysis using Window Functions  
+-> Reusable SQL Reporting Views for Business Intelligence  
 
 ## Technologies Used
 Microsoft SQL Server  
