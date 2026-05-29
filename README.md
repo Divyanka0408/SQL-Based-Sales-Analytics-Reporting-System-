@@ -30,7 +30,12 @@ Data Segmentation
 Business Reporting & Analytics  
 
 # Business Impact
-This project enables organizations to monitor sales performance, identify high-value customers, evaluate product success, and make data-driven business decisions through structured SQL analytics and reporting.
+1. Enabled data-driven decision-making through comprehensive sales, customer, and product analytics.  
+2. Identified high-value customers and top-performing products using KPI-based reporting.  
+3. Improved business visibility by transforming raw transactional data into actionable insights.  
+4. Automated reporting processes through reusable SQL views, reducing manual analysis efforts.  
+5. Applied Data Warehousing and Business Intelligence techniques commonly used in enterprise analytics environments.  
+6. Demonstrated the ability to solve real-world business problems using advanced SQL and analytical thinking.  
 
 ## Key Reports Generated
 ### Customer Report
